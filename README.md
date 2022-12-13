@@ -1,6 +1,7 @@
 Title of Project = Weather App
 
 Demo Link : https://slee0819.github.io/Final_Project_INST-377_Weather_App/\
+
 This application is available in all browsers(Windows, Mac, ios, android).
 
 
