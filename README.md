@@ -1,11 +1,13 @@
-Title of Project = Weather App
-
-Demo Link : https://slee0819.github.io/Final_Project_INST-377_Weather_App/\
+# Title of Project : Weather App
 
 This application is available in all browsers(Windows, Mac, ios, android).
 
+#Links
+
+Demo Link : https://slee0819.github.io/Final_Project_INST-377_Weather_App/\
 
 API Link = https://home.openweathermap.org/users/sign_in
+
 API call -> https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
 
 Box Icon Website Link : https://boxicons.com/usage#import-css
@@ -14,6 +16,7 @@ Fonts Website Link : https://fonts.google.com/
 
 Weather Icon Website Link : https://icons8.com/icons/set/weather
 
+# Project trying to display and solve
 
 By organizing a simple form of an app that informs the weather, I only constructed the temperature, wind chill temperature, and humidity that user need.
 
